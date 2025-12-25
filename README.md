@@ -17,7 +17,7 @@
 <p><code>channel</code>: Select the channel (1-4).</p>
 </li>
 <li>
-<p><code>time</code>: (Optional) Leave empty for <strong>“Right Now”</strong> or enter a specific time <strong>(use Server Time)</strong>.</p>
+<p><code>time</code>: (Optional) Leave empty for <strong>“Right Now”</strong> or enter a specific time.</p>
 </li>
 </ul>
 <p><strong>🔹 Scenario A: You just killed the boss</strong> Leave the <code>time</code> field <strong>empty</strong>.</p>
